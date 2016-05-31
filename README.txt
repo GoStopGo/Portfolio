@@ -1,3 +1,3 @@
-Ini adalah porfolio percobaan untuk belajar git.
+Ini adalah porfolio percobaan untuk belajar perintah-perintah yang ada pada git.
 
--Terima Kasih
+-Terima Kasih-
